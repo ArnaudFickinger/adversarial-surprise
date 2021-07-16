@@ -1,0 +1,1 @@
+To run the experiment, run: sh run.sh

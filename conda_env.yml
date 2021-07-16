@@ -1,0 +1,13 @@
+name: adversarial_surprise
+channels:
+  - defaults
+dependencies:
+  - python=3.6
+  - cudatoolkit
+  - pip:
+    - imageio
+    - imageio-ffmpeg
+    - gym
+    - scipy
+    - wandb
+    - opencv-python
