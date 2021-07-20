@@ -1,5 +1,8 @@
 # Explore and Control with Adversarial Surprise
 
+Paper: https://arxiv.org/abs/2107.07394 \
+Project Page: https://sites.google.com/corp/view/adversarial-surprise/home 
+
 In this repo we provide:
 - Our suite of procedurally-generated MiniGrid environments containing controllable noisy rooms and dark rooms to test the exploration and control ability of RL agents in stochastic partially-observable environments.
 - Our implementation of Adversarial Surprise that efficiently explore and control these environments.
